@@ -5,3 +5,6 @@ __pycache__/
 venv/
 *.egg-info/
 .streamlit/
+demo_frames/
+demo_video_frames/
+
